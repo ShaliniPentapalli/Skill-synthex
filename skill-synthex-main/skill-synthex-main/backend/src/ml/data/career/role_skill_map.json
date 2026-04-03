@@ -1,0 +1,163 @@
+{
+    "data scientist": [
+        "python",
+        "sql",
+        "data_analysis",
+        "data_visualization",
+        "machine_learning",
+        "deep_learning",
+        "pandas",
+        "numpy",
+        "spark"
+    ],
+    "ml engineer": [
+        "python",
+        "aws",
+        "docker",
+        "kubernetes",
+        "machine_learning",
+        "deep_learning",
+        "mlops"
+    ],
+    "nlp engineer": [
+        "python",
+        "machine_learning",
+        "deep_learning",
+        "nlp",
+        "generative_ai",
+        "llm",
+        "rag"
+    ],
+    "computer vision engineer": [
+        "python",
+        "machine_learning",
+        "deep_learning",
+        "computer_vision"
+    ],
+    "ai researcher": [
+        "python",
+        "deep_learning",
+        "reinforcement_learning",
+        "generative_ai",
+        "llm"
+    ],
+    "backend developer": [
+        "java",
+        "node",
+        "express",
+        "sql",
+        "mongodb",
+        "redis",
+        "docker",
+        "dbms"
+    ],
+    "frontend developer": [
+        "javascript",
+        "react",
+        "angular",
+        "vue",
+        "nextjs",
+        "html",
+        "css",
+        "tailwind"
+    ],
+    "full stack developer": [
+        "javascript",
+        "node",
+        "express",
+        "react",
+        "html",
+        "css",
+        "sql",
+        "mongodb"
+    ],
+    "devops engineer": [
+        "aws",
+        "azure",
+        "gcp",
+        "docker",
+        "kubernetes",
+        "terraform",
+        "ci_cd",
+        "linux"
+    ],
+    "cloud engineer": [
+        "aws",
+        "azure",
+        "gcp",
+        "docker",
+        "kubernetes",
+        "terraform"
+    ],
+    "data engineer": [
+        "python",
+        "sql",
+        "spark",
+        "hadoop",
+        "kafka",
+        "airflow",
+        "data_warehousing",
+        "etl"
+    ],
+    "big data engineer": [
+        "python",
+        "scala",
+        "spark",
+        "hadoop",
+        "kafka"
+    ],
+    "cyber security analyst": [
+        "cyber_security",
+        "networking",
+        "cryptography",
+        "ethical_hacking",
+        "forensics"
+    ],
+    "ethical hacker": [
+        "cyber_security",
+        "networking",
+        "cryptography",
+        "ethical_hacking"
+    ],
+    "qa engineer": [
+        "manual_testing",
+        "automation_testing",
+        "selenium",
+        "pytest"
+    ],
+    "mobile app developer": [
+        "java",
+        "android",
+        "flutter"
+    ],
+    "database administrator": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "oracle",
+        "dbms"
+    ],
+    "business intelligence analyst": [
+        "excel",
+        "powerbi",
+        "tableau",
+        "looker",
+        "data_visualization"
+    ],
+    "software engineer": [
+        "python",
+        "java",
+        "dsa",
+        "os",
+        "dbms",
+        "cn",
+        "oops"
+    ],
+    "site reliability engineer": [
+        "aws",
+        "docker",
+        "kubernetes",
+        "ci_cd",
+        "linux"
+    ]
+}
